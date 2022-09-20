@@ -1,11 +1,9 @@
-# VRCF-IBot
-a random vrchat friend &amp; invite bot
+# InviteAll Script
 
+Add your login details and instance id, then run the script to automatically invite all your friends.
 
 Made with [VRChat API](https://github.com/vrchatapi) package
 
 # Disclaimer !!
 
-This vrchat Friend and Invite bot is distributed as-is, with no guarenty it will work or will not get you banned
-
-I (Tom) will NOT be responsible for any banned accounts and / or IP's
+I will NOT be responsible for any banned accounts and / or IP's, this project is for educational purposes only!
